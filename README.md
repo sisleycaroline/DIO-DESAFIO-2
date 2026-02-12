@@ -37,6 +37,7 @@ Montar Layout da Tabela no Excel<br>
 Aplicar fórmulas e testar seus resultados<br>
 Unanimidade visual, ou seja, deixar sua ferramenta visualmente coerente e agradável (transmite confiança no trabalho).<br>
 Tom de laranja usado: #FFC000
+Tom de branco das tabelas: #F2F2F2
 
 6º Finalização <br>
 Aplicar ajustes finos para que a ferramenta fique 100%.
