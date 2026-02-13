@@ -15,10 +15,8 @@ Quais os blocos e informações eu preciso incluir nessa ferramenta para fazer e
 - Para o Titular: Nome, CPF, Data de Nascimento, Título de eleitor, Cônjuge, Rua, Rua abreviada, CEP, Telefone, Celular, e-mail, Houve alterações da entrega anterior, Dependente Cônjuge, Residente do exterior.<br>
 - Para Informes de Rendimentos Bancários: Total, Banco, Valor atual, Anexo <br>
 - Tabelas: Códigos de bancos <br>
-- Notas Bancários e extrato: Entradas, data, Modalidade de Trabalho <br>
-Quais informações terei como resultado dessas simulações? Resposta: <br>
-Além dessas informações, quais outras são necessárias para a ferramenta? Resposta: <br>
-É necessário uma demonstração gráfica? Resposta: Sim <br>
+- Notas Bancárias e extrato: Valor, mês/ano, Modalidade de Trabalho <br>
+Quais informações terei como resultado dessas simulações? Resposta: Conseguirei um ferramenta que facilite a declaração do imposto de renda.  <br>
 
 2º Passo:<br>
 
@@ -26,21 +24,26 @@ Após definir perguntas de negócio, criar um fluxograma lógico para dar andame
 
 3º Passo:<br>
 
+Definir quais serão as abas de planilhas necessárias: Titular, Informes, Notas e Códigos dos bancos <br>
+O menu que será mostrado para o usuário não inclui Código de bancos. Esse será apenas para salvar essa informação, será utilizada futuramente na aba INFORMES, para o campo BANCO.  <br>
+
 4º Passo: <br>
 
-5º Passo:<br>
-Montar Layout da Tabela no Excel<br>
-- Criei os blocos e adionei as informações correspondentes em cada bloco.<br>
-- 
-- 
+- Montar Layout da Tabela no Excel<br>
+  - Iniciei
+  - Criei as planilhas e adicionei as informações correspondentes a cada planilha.<br>
+  - Para campos que a resposta fosse "SIM" ou "NÃO", foi feito o processo de validação de dados <br>
+  - Formataçãp de células para que o preenchimento pelo usuário ficasse coerente (Moeda, CPF, Telefone, Celular, CEP, Data de Nascimento) <br>
+5º Passo <br>
 
 Aplicar fórmulas e testar seus resultados<br>
 Unanimidade visual, ou seja, deixar sua ferramenta visualmente coerente e agradável (transmite confiança no trabalho).<br>
-Tom de laranja usado: #FFC000
-Tom de branco das tabelas: #F2F2F2
+Tom de laranja usado: #FFC000 <br>
+Tom de branco das tabelas: #F2F2F2 <br>
+Foi associado links aos botões para que a ferramenta ficasse interativa. <br>
 
 6º Finalização <br>
-Aplicar ajustes finos para que a ferramenta fique 100%.
+Aplicar ajustes finos para que a ferramenta fique 100%.  <br>
 
 ## 🤖 Ferramentas utilizadas
 - Github<br>
@@ -48,4 +51,4 @@ Aplicar ajustes finos para que a ferramenta fique 100%.
 - Chat GPT<br>
 
 ## 📚 Aprendizados
-Primeiramente: não conhecia muito sobre fundos de investimentos e através desse desse desafio pude conhecer e entender como funciona. Além disso, não tinha conhecimento sobre fundos imobiliários e seus tipos, já foi um incremento em meu conhecimento. Foi bem interessante explorar um pouco mais do Excel, ir além do básico e usar diferentes fórmulas e designs.<br>
+É comum ver a dificuldade que as pessoas tem no processo de declaração do imposto de renda e foi bem interessante saber um pouco mais como funciona e desenvolver essa ferramenta. Aprendu alguns "macetes" básicos do excel, o que facilitou esse trabalho e com certeza será proveitoso no futuro. <br>
