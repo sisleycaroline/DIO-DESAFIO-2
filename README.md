@@ -30,7 +30,6 @@ O menu que será mostrado para o usuário não inclui Código de bancos. Esse se
 4º Passo: <br>
 
 - Montar Layout da Tabela no Excel<br>
-  - Iniciei
   - Criei as planilhas e adicionei as informações correspondentes a cada planilha.<br>
   - Para campos que a resposta fosse "SIM" ou "NÃO", foi feito o processo de validação de dados <br>
   - Formataçãp de células para que o preenchimento pelo usuário ficasse coerente (Moeda, CPF, Telefone, Celular, CEP, Data de Nascimento) <br>
